@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.table{
+    border: 1px solid black;
+    width: 100%;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.cell{
+    border: 1px solid black;
+    padding: 40px;
+    cursor: pointer;
+    font-size: 30px;
+}
+
+body{
+    width: 60%;
+    margin: auto;
+}
+
+.start{
+    display: block;
+    margin: auto;
+    border: none;
+    background-color: burlywood;
+    padding: 10px;
+}
